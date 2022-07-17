@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Sirus Roulette History
+## Version: 1.0
+## Notes: Logging of production from roulette, to compile a percentage of the chance of a diamond or other production.
+## Notes-ruRU: Логирование добычи с  рулетки, для составления процентного соотношения шанса на бриллиант или прочую добычу.
+## Author: NightlyBlooD
+## SavedVariables: S_Roulette_DB
+## SavedVariablesPerCharacter: S_Roulette_Char_DB
+
+
+SRH.lua
